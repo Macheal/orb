@@ -1,7 +1,7 @@
 package orb
 
 // A Point is a Lon/Lat 2d point.
-type Point [2]float64
+type Point []float64
 
 var _ Pointer = Point{}
 
