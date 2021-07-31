@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/paulmach/orb"
+	"github.com/macheal/orb"
 )
 
 const earthRadiusPi = orb.EarthRadius * math.Pi

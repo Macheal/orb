@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/paulmach/orb"
+	"github.com/macheal/orb"
 )
 
 // MarshalString returns a WKT representation of the Geometry if possible.

@@ -3,10 +3,10 @@ package mvt_test
 import (
 	"log"
 
-	"github.com/paulmach/orb/encoding/mvt"
-	"github.com/paulmach/orb/geojson"
-	"github.com/paulmach/orb/maptile"
-	"github.com/paulmach/orb/simplify"
+	"github.com/macheal/orb/encoding/mvt"
+	"github.com/macheal/orb/geojson"
+	"github.com/macheal/orb/maptile"
+	"github.com/macheal/orb/simplify"
 )
 
 func ExampleMarshal() {

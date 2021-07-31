@@ -9,8 +9,8 @@ import (
 	"errors"
 	"math"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/planar"
+	"github.com/macheal/orb"
+	"github.com/macheal/orb/planar"
 )
 
 var (

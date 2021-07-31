@@ -1,8 +1,8 @@
 package mvt
 
 import (
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/geojson"
+	"github.com/macheal/orb"
+	"github.com/macheal/orb/geojson"
 	"reflect"
 	"testing"
 )

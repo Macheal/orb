@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/paulmach/orb"
+	"github.com/macheal/orb"
 )
 
 func TestMarshal(t *testing.T) {

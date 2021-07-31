@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/paulmach/orb"
+	"github.com/macheal/orb"
 )
 
 var epsilon = 1e-6

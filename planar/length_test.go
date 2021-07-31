@@ -3,7 +3,7 @@ package planar
 import (
 	"testing"
 
-	"github.com/paulmach/orb"
+	"github.com/macheal/orb"
 )
 
 func TestLength(t *testing.T) {

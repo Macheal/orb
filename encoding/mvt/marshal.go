@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/paulmach/orb/encoding/mvt/vectortile"
-	"github.com/paulmach/orb/geojson"
+	"github.com/macheal/orb/encoding/mvt/vectortile"
+	"github.com/macheal/orb/geojson"
 
 	"github.com/gogo/protobuf/proto"
 )

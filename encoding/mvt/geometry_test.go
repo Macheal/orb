@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/encoding/mvt/vectortile"
+	"github.com/macheal/orb"
+	"github.com/macheal/orb/encoding/mvt/vectortile"
 	"github.com/paulmach/protoscan"
 )
 

@@ -5,7 +5,7 @@ import (
 	"io"
 	"math"
 
-	"github.com/paulmach/orb"
+	"github.com/macheal/orb"
 )
 
 func unmarshalLineString(order byteOrder, data []byte) (orb.LineString, error) {

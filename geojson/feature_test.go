@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/paulmach/orb"
+	"github.com/macheal/orb"
 )
 
 func TestNewFeature(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/paulmach/orb"
+	"github.com/macheal/orb"
 )
 
 func Distance(a, b orb.Point) float64 {
